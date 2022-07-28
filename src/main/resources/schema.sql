@@ -1,0 +1,3 @@
+/*
+CREATE TABLE TEAM(ID VARCHAR(255) PRIMARY KEY,
+                  SCORE INT);*/
